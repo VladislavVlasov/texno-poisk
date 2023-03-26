@@ -1755,8 +1755,14 @@ h6,
   .plotniskie-uslugi-page__head-title {
     margin-bottom: 40px;
   }
+  .plotniskie-uslugi-page__head-body-main {
+    order: 1;
+  }
   .plotniskie-uslugi-page__head-body-main-block {
     margin-bottom: 80px;
+  }
+  .plotniskie-uslugi-page__head-body-side {
+    order: 2;
   }
   .plotniskie-uslugi-page__head-body-side-wrapper {
     padding: 40px;
@@ -1778,11 +1784,7 @@ h6,
 }
 @media all and (min-width: 1280px) {
   .plotniskie-uslugi-page__head-body-main {
-    order: 1;
     margin-top: 0;
-  }
-  .plotniskie-uslugi-page__head-body-side {
-    order: 2;
   }
 }
 .popup {
