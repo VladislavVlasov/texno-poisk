@@ -1663,7 +1663,7 @@ h6,
   width: 100%;
   border-bottom: 1px solid rgba(2, 54, 101, 0.25) !important;
 }
-.plotniskie-uslugi-page__head-body-side-form-input .input-block__lable {
+.plotniskie-uslugi-page__head-body-side-form-input .input-block__label {
   color: #023665 !important;
 }
 .plotniskie-uslugi-page__head-body-side-form-input .input-block.active .input-block__input {
@@ -2384,7 +2384,7 @@ h6,
 .input-block__input:focus {
   border-bottom: 1px solid #1ACEF2;
 }
-.input-block__lable {
+.input-block__label {
   pointer-events: none;
   position: absolute;
   top: 13px;
@@ -2394,7 +2394,7 @@ h6,
   color: #0BA0BE;
   transition: top 0.3s, font-size 0.3s, color 0.3s;
 }
-.input-block__lable-req {
+.input-block__label-req {
   color: #FD5679;
 }
 .input-block__error-message {
@@ -2407,7 +2407,7 @@ h6,
   display: none;
 }
 
-.input-block.active .input-block__lable {
+.input-block.active .input-block__label {
   top: -10px;
   font-size: 12px;
 }
@@ -2426,10 +2426,10 @@ h6,
 .body--theme-light .input-block__input:focus {
   border-bottom: 1px solid #f07e57;
 }
-.body--theme-light .input-block__lable {
+.body--theme-light .input-block__label {
   color: #7b8fa7;
 }
-.body--theme-light .input-block.active .input-block__lable {
+.body--theme-light .input-block.active .input-block__label {
   color: #f07e57;
 }
 
